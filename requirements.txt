@@ -1,0 +1,5 @@
+# Dependency untuk menjalankan skrip evaluasi (terpisah dari system/requirements.txt)
+pandas>=2.2
+requests>=2.32
+langsmith>=0.3
+python-dotenv>=1.0
